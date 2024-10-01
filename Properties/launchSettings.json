@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CLDV6212_BlobFunction": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7087",
+      "launchBrowser": false
+    }
+  }
+}
